@@ -42,7 +42,6 @@ include 'header.php';
         <a href="index.php" class="btn btn-gray">Clear</a>
       <?php endif; ?>
     </form>
-    <a href="add_student.php" class="btn">+ Add Student</a>
   </div>
 
   <table>
